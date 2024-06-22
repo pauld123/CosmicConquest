@@ -1,16 +1,13 @@
 
 **Privacy Policy**
-
 This privacy policy applies to the Cosmic Conquest game app (hereby referred to as "Application") for mobile devices that was created by Paul Drewett (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
   
 **What information does the Application obtain and how is it used?**
-
 The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
 
   
 **Does the Application collect precise real time location information of the device?**
-
 This Application does not collect precise information about the location of your mobile device.
 
   
